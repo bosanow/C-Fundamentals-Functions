@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++ Fundamentals Functions", "C++ Fundamentals Functions\C++ Fundamentals Functions.vcxproj", "{5147E2BF-C4E2-48C9-8DC5-E4F4BAFA384E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SignOfIntegerNumbers_01", "SignOfIntegerNumbers_01\SignOfIntegerNumbers_01.vcxproj", "{0F2E1E04-E12A-44A0-B665-3513A3EC0307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5147E2BF-C4E2-48C9-8DC5-E4F4BAFA384E}.Debug|x64.ActiveCfg = Debug|x64
+		{5147E2BF-C4E2-48C9-8DC5-E4F4BAFA384E}.Debug|x64.Build.0 = Debug|x64
+		{5147E2BF-C4E2-48C9-8DC5-E4F4BAFA384E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5147E2BF-C4E2-48C9-8DC5-E4F4BAFA384E}.Debug|x86.Build.0 = Debug|Win32
+		{5147E2BF-C4E2-48C9-8DC5-E4F4BAFA384E}.Release|x64.ActiveCfg = Release|x64
+		{5147E2BF-C4E2-48C9-8DC5-E4F4BAFA384E}.Release|x64.Build.0 = Release|x64
+		{5147E2BF-C4E2-48C9-8DC5-E4F4BAFA384E}.Release|x86.ActiveCfg = Release|Win32
+		{5147E2BF-C4E2-48C9-8DC5-E4F4BAFA384E}.Release|x86.Build.0 = Release|Win32
+		{0F2E1E04-E12A-44A0-B665-3513A3EC0307}.Debug|x64.ActiveCfg = Debug|x64
+		{0F2E1E04-E12A-44A0-B665-3513A3EC0307}.Debug|x64.Build.0 = Debug|x64
+		{0F2E1E04-E12A-44A0-B665-3513A3EC0307}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F2E1E04-E12A-44A0-B665-3513A3EC0307}.Debug|x86.Build.0 = Debug|Win32
+		{0F2E1E04-E12A-44A0-B665-3513A3EC0307}.Release|x64.ActiveCfg = Release|x64
+		{0F2E1E04-E12A-44A0-B665-3513A3EC0307}.Release|x64.Build.0 = Release|x64
+		{0F2E1E04-E12A-44A0-B665-3513A3EC0307}.Release|x86.ActiveCfg = Release|Win32
+		{0F2E1E04-E12A-44A0-B665-3513A3EC0307}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA5ABCC9-6133-49D0-87E5-570F7EFFF3F1}
+	EndGlobalSection
+EndGlobal
